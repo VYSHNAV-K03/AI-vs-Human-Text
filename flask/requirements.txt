@@ -1,0 +1,14 @@
+pip==24.0
+nltk
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.0.3
+spacy==3.7.4
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+gensim==4.3.2
+scikit-learn==1.2.2
+typing_extensions==4.10.0
+Flask 
+PyMuPDF
+flask-cors 
